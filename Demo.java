@@ -1,6 +1,6 @@
 public class Demo {
     public static void main(String[] args) {
-        int a=12;
+        int a=20;
         int b=20;
         int c=30;
         System.out.println(a+b+c);
